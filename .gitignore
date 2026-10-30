@@ -1,0 +1,41 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments & virtualenvs
+.venv/
+env/
+venv/
+ENV/
+conda_env*/
+
+# Datasets and raw files
+data/
+*.csv
+!outputs/summary_*.csv
+
+# Model checkpoints & heavy weights
+checkpoints/
+adapters/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Outputs and logs
+outputs/*.csv
+!outputs/summary_*.csv
+logs/
+*.log
+
+# Documents / PDFs
+*.pdf
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/

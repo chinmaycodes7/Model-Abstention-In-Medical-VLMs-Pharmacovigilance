@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+bitsandbytes
+pillow
+numpy
+bert_score
+pypdf
