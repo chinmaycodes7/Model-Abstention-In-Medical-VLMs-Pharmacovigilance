@@ -1,8 +1,0 @@
-Metric,Score
-Precision,0.9692
-Recall,0.9755
-F1,0.9723
-Abstention Accuracy,0.9716
-Hallucination Rate,0.0245
-Jaccard Similarity,0.3770
-BERTScore,0.8848
